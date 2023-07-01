@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharma-777&label=Profile%20views&color=0e75b6&style=flat" alt="dharma-777" /> </p>
 
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Data Structures,React Js**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React,DataStructures,Python,OOPS**
 
 - 📫 How to reach me **grandhi.dharmateja@gmail.com**
 
