@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharma-777" alt="dharma-777" /></a> </p>
 
-- 🌱 I’m currently learning **React Js,Datastructures**
+- 🌱 I’m currently learning **React Js**
 
-- 💬 Ask me about **React,Ds**
+- 💬 Ask me about **react**
 
 - 📫 How to reach me **grandhi.dharmateja@gmail.com**
 
@@ -27,4 +27,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dharma-777&show_icons=true&locale=en&layout=compact" alt="dharma-777" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharma-777&" alt="dharma-777" /></p>
-
